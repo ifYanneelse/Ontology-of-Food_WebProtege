@@ -702,6 +702,10 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://webprotege.stanford.edu/RDvZsK5C3YfUy9rGHYeb4bg"/>
+        <Class IRI="http://webprotege.stanford.edu/R8qNVVcyjoOKPTcLI2Un0hV"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDvZsK5C3YfUy9rGHYeb4bg"/>
         <Class IRI="http://webprotege.stanford.edu/R8x5LkWRKgb58Nb0vnjxnj"/>
     </SubClassOf>
     <SubClassOf>
@@ -727,6 +731,13 @@
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://webprotege.stanford.edu/R9kQA7imi3bFo0h5moFktoN"/>
             <Class IRI="http://webprotege.stanford.edu/R95nBgc6QJTaIyJ9sZFf0ot"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDvZsK5C3YfUy9rGHYeb4bg"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R9kQA7imi3bFo0h5moFktoN"/>
+            <Class IRI="http://webprotege.stanford.edu/RDSeTblarUPHn9A5Al3wvQw"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
