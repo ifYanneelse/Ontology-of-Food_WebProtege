@@ -21,6 +21,9 @@ Modelar o conhecimento sobre **comida**, incluindo distinções entre alimentos 
 Você pode acessar o arquivo OWL da ontologia neste repositório:  
 **[ontology_of_food.owl](urn_webprotege_ontology_466b1c17-fe0b-49a7-a484-e2edd6c31a94.owx)**
 
+## 📡 OWL no TriplyDB
+https://triplydb.com/ifYanneelse/ontology-of-food
+
 ## 🗃️ Licença
 Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
